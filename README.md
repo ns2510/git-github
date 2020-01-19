@@ -9,3 +9,9 @@ This is the famous and one of the Best Training Cource of Devops
 
 ## GIT Comparisons
 GIT comparison Lectures
+
+## GIT  Content
+Comparison with Repo
+
+## Checking Repo diff
+Difference is --staged
